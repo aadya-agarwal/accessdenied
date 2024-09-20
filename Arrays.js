@@ -31,7 +31,7 @@
 
 
 
-let foodItems=["potato","apple","litchies","tomato"];
+let foodItems=["potato","apple","litchies","tomato", "mango"];
 foodItems.push("chips","burger","paneer");
 console.log(foodItems);
 
